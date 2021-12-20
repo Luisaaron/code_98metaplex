@@ -1,1 +1,1 @@
-# code_98metaplex
+# code_98metaplex. NFT minting
